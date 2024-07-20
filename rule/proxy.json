@@ -4,15 +4,17 @@
     {
       "domain": [
         "hub.docker.com",
-        "github.com",
-        "hhanclub.top"
+        "github.com"
+
+
 
       ],
       "domain_keyword": [
         
       ],
       "domain_suffix": [
-        "appstorrent.ru"
+        "appstorrent.ru",
+        "hhanclub.top"
       ]
     }
   ]
