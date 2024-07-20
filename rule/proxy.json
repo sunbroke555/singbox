@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "hub.docker.com",
+        "github.com"
+
+      ],
+      "domain_keyword": [
+        
+      ],
+      "domain_suffix": [
+        "appstorrent.ru"
+      ]
+    }
+  ]
+}

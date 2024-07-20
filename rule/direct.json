@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "plex.tv",
+        "sunbroke.top"
+      ],
+      "domain_keyword": [
+        "announce",
+        "tracker",
+        "torrent"
+      ],
+      "domain_suffix": [
+        "biomind.cn",
+        "hhan.club"
+      ]
+    }
+  ]
+}
