@@ -11,12 +11,16 @@
         "hhanclub",
         "github",
         "docker",
-        "bcreatpk"
+        "bcreatpk",
+        "registry-1.docker.io",
+        "mikrotik",
+        "python"
 
         
       ],
       "domain_suffix": [
-        "appstorrent.ru"
+        "appstorrent.ru",
+        "docker.io"
 
 
       ]

@@ -4,16 +4,23 @@
     {
       "domain": [
         "plex.tv",
-        "sunbroke.top"
+
       ],
       "domain_keyword": [
         "announce",
         "tracker",
-        "torrent"
+        "torrent",
+        "quickconnect"
+
       ],
       "domain_suffix": [
         "biomind.cn",
-        "hhan.club"
+        "hhan.club",
+        "930227.xyz",
+        "sunbroke.top",
+        "beyond-hd",
+        "passthepopcorn",
+        "broadcastthe"
       ]
     }
   ]
