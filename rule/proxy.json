@@ -15,7 +15,8 @@
         "mikrotik",
         "python",
         "thetvdb",
-        "fanart"
+        "fanart",
+        "mb3admin"
       ],
       "domain_suffix": [
         "appstorrent.ru",
