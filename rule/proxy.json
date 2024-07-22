@@ -3,7 +3,9 @@
   "rules": [
     {
       "domain": [
-        "hub.docker.com"
+        "hub.docker.com",
+        "api.tmdb.org",
+        "api.themoviedb.org"
       ],
       "domain_keyword": [
         "hhanclub",
@@ -13,8 +15,6 @@
         "mikrotik",
         "python",
         "thetvdb",
-        "tmdb",
-        "themoviedb",
         "fanart"
       ],
       "domain_suffix": [
