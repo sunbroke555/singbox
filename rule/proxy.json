@@ -4,7 +4,6 @@
     {
       "domain": [
         "hub.docker.com"
-
       ],
       "domain_keyword": [
         "hhanclub",
@@ -17,14 +16,10 @@
         "tmdb",
         "themoviedb",
         "fanart"
-
-        
       ],
       "domain_suffix": [
         "appstorrent.ru",
         "docker.io"
-
-
       ]
     }
   ]
