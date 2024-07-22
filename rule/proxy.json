@@ -14,7 +14,11 @@
         "bcreatpk",
         "registry-1.docker.io",
         "mikrotik",
-        "python"
+        "python",
+        "thetvdb"
+        "tmdb",
+        "themoviedb",
+        "fanart"
 
         
       ],
