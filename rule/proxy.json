@@ -16,7 +16,8 @@
         "python",
         "thetvdb",
         "fanart",
-        "mb3admin"
+        "mb3admin",
+        "qobuz"
       ],
       "domain_suffix": [
         "appstorrent.ru",
