@@ -10,7 +10,8 @@
         "announce",
         "tracker",
         "torrent",
-        "quickconnect"
+        "quickconnect",
+        "nexconvert"
 
       ],
       "domain_suffix": [
