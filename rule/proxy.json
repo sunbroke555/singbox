@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain": [
-        "hub.docker.com",
+        "hub.docker.com"
 
       ],
       "domain_keyword": [
