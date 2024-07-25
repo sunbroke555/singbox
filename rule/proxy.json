@@ -4,8 +4,7 @@
     {
       "domain": [
         "hub.docker.com",
-        "api.tmdb.org",
-        "api.themoviedb.org"
+
       ],
       "domain_keyword": [
         "hhanclub",
@@ -15,9 +14,12 @@
         "mikrotik",
         "python",
         "thetvdb",
+        "themoviedb",
+        "tmdb",
         "fanart",
         "mb3admin",
-        "qobuz"
+        "qobuz",
+        "hhanclub"
       ],
       "domain_suffix": [
         "appstorrent.ru",
