@@ -3,8 +3,9 @@
   "rules": [
     {
       "domain": [
-        "hub.docker.com"
-
+        "hub.docker.com",
+        "fast.com",
+        "github.com"
       ],
       "domain_keyword": [
         "hhanclub",
@@ -25,6 +26,10 @@
       "domain_suffix": [
         "appstorrent.ru",
         "docker.io"
+      ],
+      "source_ip_cidr": [
+        "192.168.0.0/24"
+
       ]
     }
   ]
