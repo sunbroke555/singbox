@@ -4,7 +4,6 @@
     {
       "domain": [
         "plex.tv"
-
       ],
       "domain_keyword": [
         "announce",
@@ -12,9 +11,10 @@
         "torrent",
         "quickconnect",
         "ypftrh"
-
       ],
       "domain_suffix": [
+        "plex.direct",
+        "v4.plex.tv",
         "biomind.cn",
         "hhan.club",
         "930227.xyz",
@@ -22,7 +22,10 @@
         "sunbroke.top",
         "beyond-hd",
         "passthepopcorn",
-        "broadcastthe"
+        "broadcastthe"        
+      ],
+      "ip_cidr": [
+        "192.168.0.0/24"
       ]
     }
   ]
