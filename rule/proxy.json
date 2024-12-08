@@ -3,12 +3,13 @@
   "rules": [
     {
       "domain": [
+        "hhanclub.top",
         "hub.docker.com",
         "fast.com",
         "github.com"
       ],
       "domain_keyword": [
-        "hhanclub",
+
         "docker",
         "bcreatpk",
         "registry-1.docker.io",
