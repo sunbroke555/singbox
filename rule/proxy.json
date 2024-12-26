@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain": [
-        "hhanclub.top",
         "hub.docker.com",
         "fast.com",
         "github.com"
@@ -11,6 +10,10 @@
       "domain_keyword": [
 
         "docker",
+        "audiences",
+        "hhanclub",
+        "hhan",
+        "pterclub",
         "bcreatpk",
         "registry-1.docker.io",
         "mikrotik",
